@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alan is a Data Anaytics Manager at BMG Research, a social research agency based in Birmingham, UK.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Alan is originally from Scotland, and has lived at various locations throughout Europe. He is a keen linguist, rubbish guitarist, and enjoys reading up on history & politics.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alan.mcconville@bmgresearch.co.uk](mailto:alan.mcconville@bmgresearch.co.uk)
