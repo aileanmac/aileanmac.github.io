@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Intro
+title: Introduction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This blog will mainly focus on statistical processes, how to analyse their outputs, and how to reproduce these analyses using open-source software such ads R or WEKA.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
